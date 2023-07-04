@@ -1,0 +1,17 @@
+button {
+  justify-content: 'center';
+  border-radius: var(--borderRadius);
+  height: 50px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+primary {
+  background-color: var(--primary);
+  border-color: var(--primary);
+  border-width: '2px';
+}
+secondary {
+  background-color: var(--secondary);
+  border-color: var(--secondary);
+  border-width: '2px';
+}
